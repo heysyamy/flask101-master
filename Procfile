@@ -1,1 +1,1 @@
-web: gunicorn flask101-master:app
+web: gunicorn flask101:app
